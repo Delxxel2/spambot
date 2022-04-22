@@ -1,0 +1,1 @@
+node bot.js --message "." --maxMessages 999999 --setTime 60000 --prune
